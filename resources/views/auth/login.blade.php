@@ -54,6 +54,14 @@
                                 <button type="submit" class="button success hollow">
                                     Login
                                 </button>
+                                <button type="submit" class="button success hollow"href="{{ route('register') }}">
+                                    Register
+                                </button>
+                             <div class="form-group">
+                            <div class="col-md-6 col-md-offset-4">
+                               
+                            </div>
+                        </div>
 
                                 <!-- <a class="btn btn-link" href="{{ route('password.request') }}">
                                     Forgot Your Password?
